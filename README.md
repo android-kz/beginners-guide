@@ -1,5 +1,5 @@
 # beginners-guide
-Полезные ссылки для начинающих Android разработчиков
+Бастауыш Android developer-лерге арналған пайдалы сілтемелер / Полезные ссылки для начинающих Android разработчиков
 
 Список от [Darkhanjuz](https://t.me/android_kz/25034):
 1. Разработка приложении под Android с нуля - [YouTube](https://youtube.com/playlist?list=PLdLYwU7FsLgiD8TYeAMvIYMzKR_3Nxn4V)
